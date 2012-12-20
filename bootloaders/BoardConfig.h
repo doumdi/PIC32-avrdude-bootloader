@@ -1424,7 +1424,7 @@
 
 
     // Listening ms before loading
-    #define LISTEN_BEFORE_LOAD          2000
+    #define LISTEN_BEFORE_LOAD          5000
 
     // Boot LED
     #define EnableBootLED()             (TRISDbits.TRISD4 = 0)
