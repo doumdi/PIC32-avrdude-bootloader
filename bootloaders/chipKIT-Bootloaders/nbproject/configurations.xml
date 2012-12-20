@@ -50,7 +50,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -217,7 +217,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -384,7 +384,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -551,7 +551,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -688,7 +688,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -825,7 +825,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -992,7 +992,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1159,7 +1159,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1296,7 +1296,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1463,7 +1463,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1600,7 +1600,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1737,7 +1737,7 @@
         <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -1904,7 +1904,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2071,7 +2071,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2238,7 +2238,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2405,7 +2405,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2542,7 +2542,7 @@
         <platformTool>PK3OBPlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2673,13 +2673,13 @@
     <conf name="MX7_UWB32_USB" type="2">
       <toolsSet>
         <developmentServer>localhost</developmentServer>
-        <targetDevice>PIC32MX795F512L</targetDevice>
+        <targetDevice>PIC32MX795F512H</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
         <platformTool>PICkit3PlatformTool</platformTool>
-        <languageToolchain>C32</languageToolchain>
-        <languageToolchainVersion>2.02</languageToolchainVersion>
-        <platform>3</platform>
+        <languageToolchain>XC32</languageToolchain>
+        <languageToolchainVersion>1.20</languageToolchainVersion>
+        <platform>4</platform>
       </toolsSet>
       <compileType>
         <linkerTool>
@@ -2806,6 +2806,162 @@
       </C32Global>
       <PICkit3PlatformTool>
       </PICkit3PlatformTool>
+    </conf>
+    <conf name="PIC32DEV_USB" type="2">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>PIC32MX795F512H</targetDevice>
+        <targetHeader></targetHeader>
+        <targetPluginBoard></targetPluginBoard>
+        <platformTool>ICD3PlatformTool</platformTool>
+        <languageToolchain>C32</languageToolchain>
+        <languageToolchainVersion>2.02</languageToolchainVersion>
+        <platform>4</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <alternateLoadableFile></alternateLoadableFile>
+        </loading>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeCustomizationPreStep></makeCustomizationPreStep>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep></makeCustomizationPostStep>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+      <item path="../MX1-2-USB-boot-linkerscript.ld" ex="true" overriding="false">
+        <C32>
+        </C32>
+        <C32-AS>
+        </C32-AS>
+        <C32-LD>
+        </C32-LD>
+        <C32Global>
+        </C32Global>
+      </item>
+      <item path="../MX1-2-boot-linkerscript.ld" ex="true" overriding="false">
+        <C32>
+        </C32>
+        <C32-AS>
+        </C32-AS>
+        <C32-LD>
+        </C32-LD>
+        <C32Global>
+        </C32Global>
+      </item>
+      <item path="../MX3-7-split-boot-linkerscript.ld" ex="true" overriding="false">
+        <C32>
+        </C32>
+        <C32-AS>
+        </C32-AS>
+        <C32-LD>
+        </C32-LD>
+        <C32Global>
+        </C32Global>
+      </item>
+      <item path="../serial.h" ex="true" overriding="false">
+        <C32>
+        </C32>
+        <C32-AS>
+        </C32-AS>
+        <C32-LD>
+        </C32-LD>
+        <C32Global>
+        </C32Global>
+      </item>
+      <C32>
+        <property key="additional-warnings" value="false"/>
+        <property key="enable-app-io" value="false"/>
+        <property key="enable-omit-frame-pointer" value="false"/>
+        <property key="enable-symbols" value="true"/>
+        <property key="enable-unroll-loops" value="false"/>
+        <property key="exclude-floating-point" value="true"/>
+        <property key="extra-include-directories" value=".."/>
+        <property key="generate-16-bit-code" value="true"/>
+        <property key="isolate-each-function" value="false"/>
+        <property key="make-warnings-into-errors" value="false"/>
+        <property key="optimization-level" value="-Os"/>
+        <property key="place-data-into-section" value="false"/>
+        <property key="post-instruction-scheduling" value="default"/>
+        <property key="pre-instruction-scheduling" value="default"/>
+        <property key="preprocessor-macros" value="_BOARD_PIC32DEV_USB_"/>
+        <property key="strict-ansi" value="false"/>
+        <property key="support-ansi" value="false"/>
+        <property key="use-indirect-calls" value="false"/>
+      </C32>
+      <C32-AS>
+        <property key="assembler-symbols" value=""/>
+        <property key="enable-symbols" value="true"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="expand-macros" value="false"/>
+        <property key="extra-include-directories-for-assembler" value=".."/>
+        <property key="extra-include-directories-for-preprocessor" value=".."/>
+        <property key="false-conditionals" value="false"/>
+        <property key="keep-locals" value="false"/>
+        <property key="list-assembly" value="false"/>
+        <property key="list-source" value="false"/>
+        <property key="list-symbols" value="false"/>
+        <property key="oXC32asm-list-to-file" value="false"/>
+        <property key="omit-debug-dirs" value="false"/>
+        <property key="omit-forms" value="false"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="warning-level" value=""/>
+      </C32-AS>
+      <C32-LD>
+        <property key="enable-check-sections" value="false"/>
+        <property key="exclude-floating-point-library" value="true"/>
+        <property key="exclude-standard-libraries" value="true"/>
+        <property key="extra-lib-directories"
+                  value="../../../../../../../../Program Files (x86)/Microchip/MPLAB C32 Suite/lib;../../../../../../../../Program Files (x86)/Microchip/MPLAB C32 Suite/pic32mx/lib"/>
+        <property key="generate-16-bit-code" value="true"/>
+        <property key="generate-cross-reference-file" value="false"/>
+        <property key="heap-size" value=""/>
+        <property key="input-libraries" value=""/>
+        <property key="linker-symbols" value=""/>
+        <property key="map-file" value="&quot;${DISTDIR}/MX7cK.X.${IMAGE_TYPE}.map&quot;"/>
+        <property key="no-startup-files" value="true"/>
+        <property key="optimization-level" value=""/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="remove-unused-sections" value="false"/>
+        <property key="report-memory-usage" value="false"/>
+        <property key="stack-size" value=""/>
+        <property key="symbol-stripping" value=""/>
+        <property key="trace-symbols" value=""/>
+        <property key="warn-section-align" value="false"/>
+        <appendMe value="-Os"/>
+      </C32-LD>
+      <C32Global>
+        <property key="legacy-libc" value="false"/>
+      </C32Global>
+      <PK3OBPlatformTool>
+        <property key="AutoSelectMemRanges" value="auto"/>
+        <property key="SecureSegment.SegmentProgramming" value="FullChipProgramming"/>
+        <property key="ToolFirmwareFilePath"
+                  value="Press to browse for a specific firmware version"/>
+        <property key="ToolFirmwareOption.UseLatestFirmware" value="true"/>
+        <property key="memories.eeprom" value="false"/>
+        <property key="memories.id" value="false"/>
+        <property key="memories.programmemory" value="true"/>
+        <property key="memories.programmemory.end" value="0x1d07ffff"/>
+        <property key="memories.programmemory.start" value="0x1d000000"/>
+        <property key="poweroptions.powerenable" value="false"/>
+        <property key="programoptions.eraseb4program" value="true"/>
+        <property key="programoptions.preserveeeprom" value="false"/>
+        <property key="programoptions.preserveprogramrange" value="false"/>
+        <property key="programoptions.preserveprogramrange.end" value="0x1d0001ff"/>
+        <property key="programoptions.preserveprogramrange.start" value="0x1d000000"/>
+        <property key="programoptions.usehighvoltageonmclr" value="false"/>
+        <property key="programoptions.uselvpprogramming" value="false"/>
+        <property key="voltagevalue" value="3.25"/>
+      </PK3OBPlatformTool>
     </conf>
   </confs>
 </configurationDescriptor>
